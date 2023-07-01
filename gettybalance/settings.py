@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%3e_i7x0-8@4npsbg)2nj#-#4vv4cey*@zr5x+f54m!k-uzrfy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gettybal.onrender.com']
 
 
 # Application definition
